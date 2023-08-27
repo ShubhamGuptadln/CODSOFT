@@ -34,7 +34,7 @@ public class STUDENTGRADECALCULATOR {
         else {
             grade = 'D';
         }
-        System.out.println("Yours total marks is "+total +" and you have got "+grade+" grade");
+        System.out.println("Yours total marks is "+total +" with average percentage of "+ averagePercentage+" % and you have got "+grade+" grade");
 
 
 
